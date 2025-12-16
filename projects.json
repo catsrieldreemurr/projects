@@ -9,7 +9,7 @@
                 "tags": ["Web"],
                 "stack": ["HTML", "CSS", "TypeScript"],
                 "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/passwordGen.png",
-                "isFeatured": ""
+                "isFeatured": false
             },
             "links": {
                 "githubRepositoryLink": "https://github.com/catsrieldreemurr/CatsrielsPasswordGenerator",
@@ -28,12 +28,168 @@
                 "tags": ["Web", "Skole"],
                 "stack": ["HTML", "CSS", "JavaScript"],
                 "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/hamarTech.png",
-                "isFeatured": ""
+                "isFeatured": false
             },
             "links": {
                 "githubRepositoryLink": "https://github.com/twomuchCatsriel/hamartech",
                 "liveVersion": "https://twomuchcatsriel.github.io/hamartech/main/"
             }
+        },
+
+
+        {
+            "projectInfo": {
+                "name": "Resirkuleringsquiz",
+                "shortDesc": "En quiz om resirkuling",
+                "description": "Dette er en quiz om resirkulering, laget som en del av et gruppeprosjekt som en innlevering til Framtiden i våre henders 'Sirkulær' Konkurransje.",
+                "projectDate": "23/01/2025",
+                "tags": ["Web", "Skole"],
+                "stack": ["HTML", "CSS", "JavaScript"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/resirkulering.png",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/twomuchCatsriel/recyclingQuiz",
+                "liveVersion": "https://twomuchcatsriel.github.io/recyclingQuiz/menu.html"
+            }
+        },
+
+
+
+
+        
+        {
+            "projectInfo": {
+                "name": "Catsriel's Projects",
+                "shortDesc": "En liste av mange av prosjektene jeg lagde med ren HTML/CSS/JS",
+                "description": "Jeg started å lære JavaScript ved August 2024, og lagde mange mini prosjekter med disse. Denne siden inneholder informasjon og lenker til mange av de gamle prosjektene mine laget med Ren HTML/CSS/JS.",
+                "projectDate": "09/10/2024",
+                "tags": ["Web"],
+                "stack": ["HTML", "CSS", "JavaScript"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/projectListOld.png",
+                "isFeatured": true
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/catsrielsprojects",
+                "liveVersion": "https://catsrieldreemurr.github.io/catsrielsprojects/projects/"
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "Tic Tac Toe",
+                "shortDesc": "En gjenskapelse av 3 på rad med HTML/CSS/JS",
+                "description": "En avansert gjenskapelse av spillet Tre på rad, laget med ren JavaScript.",
+                "projectDate": "19/10/2024",
+                "tags": ["Web"],
+                "stack": ["HTML", "CSS", "JavaScript"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/TicTactoe.png",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/tictactoe",
+                "liveVersion": "https://catsrieldreemurr.github.io/tictactoe/main/"
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "The Only Outcome is Death",
+                "shortDesc": "ROBLOX Overlevesspill som handler om Trial and Error",
+                "description": "The Only Outcome is Death er et overlevelsesspill som hvor spilleren sitter fast i en trehytte, hvor forskjellige ting begynner å skje. Spilleren må finne ut hvordan man står mot alt, og gjøre hva de kan for å overleve så lenge som mulig. Spillet er basert på Trial and Error, hvor spilleren får vite ingenting før de dør.",
+                "projectDate": "24/03/2024",
+                "tags": ["ROBLOX", "Gamedev"],
+                "stack": ["LUAU"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/tooid.png",
+                "isFeatured": true
+            },
+            "links": {
+                "githubRepositoryLink": "",
+                "liveVersion": "https://www.roblox.com/games/16855680986/The-Only-Outcome-is-Death"
+            }
+        },
+
+
+        {
+            "projectInfo": {
+                "name": "Passord Sikkerhet",
+                "shortDesc": "En side som etterlikner Nettvett, med informasjon om Passordsikkerhet.",
+                "description": "Passordsikkerhet er viktig, og for en fiktiv Nettvett-kampanje så ble denne siden laget. Den har et passord-analyseverktøy, og informasjon om passordsikkerhet.",
+                "projectDate": "21/05/2025",
+                "tags": ["Web", "Skole"],
+                "stack": ["REACT", "CSS", "JavaScript"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/passwordSafety.png",
+                "isFeatured": true
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/twomuchCatsriel/PasswordSafety",
+                "liveVersion": ""
+            }
+        },
+
+
+
+
+        {
+            "projectInfo": {
+                "name": "Let's Learn GitHub",
+                "shortDesc": "En Enkel tutorial av GitHub, på en egen hjemmeside.",
+                "description": "Som en del av en skoleoppgave, så lagde jeg en enkel tutorial på GitHub for nybegynnere.",
+                "projectDate": "31/10/2025",
+                "tags": ["Web", "Skole"],
+                "stack": ["NextJS", "REACT", "TypeScript", "CSS"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/LetsLearnGitHub.png",
+                "isFeatured": true
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/learngithub",
+                "liveVersion": "https://learngithub1.vercel.app/"
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "TeamSeas",
+                "shortDesc": "En REACT Nettside om en fiktiv Norsk bransje av TeamSeas.",
+                "description": "Som en del av en skoleoppgave hvor vi skulle lage en side for en valgfri frivillig organisasjon, så valgte jeg å lage en enkel REACT side for TeamSeas.",
+                "projectDate": "30/9/2025",
+                "tags": ["Web", "Skole"],
+                "stack": ["REACT", "CSS", "JavaScript"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/fakeTeamSeas.png",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/twomuchCatsriel/TeamSeasReact",
+                "liveVersion": ""
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "Fern's OCs",
+                "shortDesc": "En nettside for mine egne OC Karakterer skrevet med NextJS",
+                "description": "Dette er en nettside som henter informasjon fra en JSON fil om karakterene mine, og skriver informasjonen på en brukervennlig måte.",
+                "projectDate": "",
+                "tags": ["Web"],
+                "stack": ["NextJS", "CSS", "TypeScript"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/fernsOCs.png",
+                "isFeatured": true
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/ocs",
+                "liveVersion": ""
+            }
         }
+
+
+
     ]
 }
