@@ -8,12 +8,12 @@
                 "projectDate": "26/02/2025",
                 "tags": ["Web"],
                 "stack": ["HTML", "CSS", "TypeScript"],
-                "previewImageURL": "",
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/passwordGen.png",
                 "isFeatured": ""
             },
             "links": {
-                "githubRepositoryLink": "",
-                "liveVersion": ""
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/CatsrielsPasswordGenerator",
+                "liveVersion": "https://catsrieldreemurr.github.io/CatsrielsPasswordGenerator/passwords.html"
             }
         }
     ]
