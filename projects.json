@@ -15,6 +15,25 @@
                 "githubRepositoryLink": "https://github.com/catsrieldreemurr/CatsrielsPasswordGenerator",
                 "liveVersion": "https://catsrieldreemurr.github.io/CatsrielsPasswordGenerator/passwords.html"
             }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "HamarTech",
+                "shortDesc": "En enkel hjemmeside til en fiktiv teknologifestival",
+                "description": "HamarTech er en hjemmeside laget til en fiktiv teknologifestival i Hamar, som er laget med HTML, CSS og JavaScript som en del av en skoleoppgave.",
+                "projectDate": "19/12/2025",
+                "tags": ["Web", "Skole"],
+                "stack": ["HTML", "CSS", "JavaScript"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/hamarTech.png",
+                "isFeatured": ""
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/twomuchCatsriel/hamartech",
+                "liveVersion": "https://twomuchcatsriel.github.io/hamartech/main/"
+            }
         }
     ]
 }
