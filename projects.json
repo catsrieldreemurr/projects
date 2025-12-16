@@ -1,0 +1,20 @@
+{
+    "projects":[
+        {
+            "projectInfo": {
+                "name": "Catsriel's Password Generator",
+                "shortDesc": "En enkel Passordgenerator skrevet i TypeScript.",
+                "description": "Catsriel's Password Generator er et enkelt program som generer tilfeldige stringer med tekst, som er laget for å brukes med et Passordbehandlingsprogram.",
+                "projectDate": "26/02/2025",
+                "tags": ["Web"],
+                "stack": ["HTML", "CSS", "TypeScript"],
+                "previewImageURL": "",
+                "isFeatured": ""
+            },
+            "links": {
+                "githubRepositoryLink": "",
+                "liveVersion": ""
+            }
+        }
+    ]
+}

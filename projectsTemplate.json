@@ -1,0 +1,20 @@
+{
+    "projects":[
+        {
+            "projectInfo": {
+                "name": "",
+                "shortDesc": "",
+                "description": "",
+                "projectDate": "",
+                "tags": [],
+                "stack": [],
+                "previewImageURL": "",
+                "isFeatured": ""
+            },
+            "links": {
+                "githubRepositoryLink": "",
+                "liveVersion": ""
+            }
+        }
+    ]
+}
