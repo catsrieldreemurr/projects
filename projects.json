@@ -177,14 +177,33 @@
                 "name": "Fern's OCs",
                 "shortDesc": "En nettside for mine egne OC Karakterer skrevet med NextJS",
                 "description": "Dette er en nettside som henter informasjon fra en JSON fil om karakterene mine, og skriver informasjonen på en brukervennlig måte.",
-                "projectDate": "",
+                "projectDate": "14/11/2025",
                 "tags": ["Web"],
-                "stack": ["NextJS", "CSS", "TypeScript"],
+                "stack": ["NextJS", "REACT", "CSS", "TypeScript"],
                 "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/fernsOCs.png",
                 "isFeatured": true
             },
             "links": {
                 "githubRepositoryLink": "https://github.com/catsrieldreemurr/ocs",
+                "liveVersion": ""
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "loginFresh",
+                "shortDesc": "En test nettside for registrering, innlogging og Session Management i NextJS og MySQL",
+                "description": "En test nettside hvor jeg skulle lage en registreringsside, innlogging og Session Management i NextJS og MySQL.",
+                "projectDate": "12/12/2025",
+                "tags": ["Web"],
+                "stack": ["NextJS", "REACT", "CSS", "TypeScript", "NodeJS", "SQL"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/loginPage.png",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/loginPageFresh",
                 "liveVersion": ""
             }
         }
