@@ -41,7 +41,7 @@
             "projectInfo": {
                 "name": "Resirkuleringsquiz",
                 "shortDesc": "En quiz om resirkuling",
-                "description": "Dette er en quiz om resirkulering, laget som en del av et gruppeprosjekt som en innlevering til Framtiden i våre henders 'Sirkulær' Konkurransje.",
+                "description": "En enkel quiz om resirkulering, laget som en del av et gruppeprosjekt som en innlevering til Framtiden i våre henders 'Sirkulær' Konkurransje.",
                 "projectDate": "23/01/2025",
                 "tags": ["Web", "Skole"],
                 "stack": ["HTML", "CSS", "JavaScript"],
@@ -62,7 +62,7 @@
             "projectInfo": {
                 "name": "Catsriel's Projects",
                 "shortDesc": "En liste av mange av prosjektene jeg lagde med ren HTML/CSS/JS",
-                "description": "Jeg started å lære JavaScript ved August 2024, og lagde mange mini prosjekter med disse. Denne siden inneholder informasjon og lenker til mange av de gamle prosjektene mine laget med Ren HTML/CSS/JS.",
+                "description": "Jeg startet med å lære JavaScript ved August 2024, og lagde mange mini prosjekter med disse. Denne siden inneholder informasjon og lenker til mange av de gamle prosjektene laget med Ren HTML/CSS/JS.",
                 "projectDate": "09/10/2024",
                 "tags": ["Web"],
                 "stack": ["HTML", "CSS", "JavaScript"],
@@ -118,7 +118,7 @@
             "projectInfo": {
                 "name": "Passord Sikkerhet",
                 "shortDesc": "En side som etterlikner Nettvett, med informasjon om Passordsikkerhet.",
-                "description": "Passordsikkerhet er viktig, og for en fiktiv Nettvett-kampanje så ble denne siden laget. Den har et passord-analyseverktøy, og informasjon om passordsikkerhet.",
+                "description": "Passordsikkerhet er viktig, og for en fiktiv Nettvett-kampanje som en del av en skoleoppgave så ble denne siden laget. Den har et passord-analyseverktøy, og informasjon om passordsikkerhet.",
                 "projectDate": "21/05/2025",
                 "tags": ["Web", "Skole"],
                 "stack": ["REACT", "CSS", "JavaScript"],
@@ -138,7 +138,7 @@
             "projectInfo": {
                 "name": "Let's Learn GitHub",
                 "shortDesc": "En Enkel tutorial av GitHub, på en egen hjemmeside.",
-                "description": "Som en del av en skoleoppgave, så lagde jeg en enkel tutorial på GitHub for nybegynnere.",
+                "description": "En Enkel tekstbasert Tutorial om GitHub, skrevet som en del av en skoleoppgave.",
                 "projectDate": "31/10/2025",
                 "tags": ["Web", "Skole"],
                 "stack": ["NextJS", "REACT", "TypeScript", "CSS"],
@@ -157,7 +157,7 @@
             "projectInfo": {
                 "name": "TeamSeas",
                 "shortDesc": "En REACT Nettside om en fiktiv Norsk bransje av TeamSeas.",
-                "description": "Som en del av en skoleoppgave hvor vi skulle lage en side for en valgfri frivillig organisasjon, så valgte jeg å lage en enkel REACT side for TeamSeas.",
+                "description": "En hjemmeside laget som en del av en skoleoppgave, hvor oppgaven var å lage en nettside til en fiktiv non-profit organisasjon. Jeg valgte en fiktiv Norsk bransje av MrBeast's TeamSeas.",
                 "projectDate": "30/9/2025",
                 "tags": ["Web", "Skole"],
                 "stack": ["REACT", "CSS", "JavaScript"],
@@ -176,7 +176,7 @@
             "projectInfo": {
                 "name": "Fern's OCs",
                 "shortDesc": "En nettside for mine egne OC Karakterer skrevet med NextJS",
-                "description": "Dette er en nettside som henter informasjon fra en JSON fil om karakterene mine, og skriver informasjonen på en brukervennlig måte.",
+                "description": "Dette er en nettside som henter informasjon fra en JSON fil om karakterene mine, og viser informasjonen på en brukervennlig måte.",
                 "projectDate": "14/11/2025",
                 "tags": ["Web"],
                 "stack": ["NextJS", "REACT", "CSS", "TypeScript"],
@@ -185,7 +185,7 @@
             },
             "links": {
                 "githubRepositoryLink": "https://github.com/catsrieldreemurr/ocs",
-                "liveVersion": ""
+                "liveVersion": "https://www.ocs.catsrieldreemurr.com"
             }
         },
 
@@ -195,10 +195,10 @@
             "projectInfo": {
                 "name": "loginFresh",
                 "shortDesc": "En test nettside for registrering, innlogging og Session Management i NextJS og MySQL",
-                "description": "En test nettside hvor jeg skulle lage en registreringsside, innlogging og Session Management i NextJS og MySQL.",
+                "description": "En test nettside med en registreringsside, innlogging og Session Management i NextJS og MySQL.",
                 "projectDate": "12/12/2025",
                 "tags": ["Web"],
-                "stack": ["NextJS", "REACT", "CSS", "TypeScript", "NodeJS", "SQL"],
+                "stack": ["NextJS", "REACT", "CSS", "TypeScript", "NodeJS", "MySQL"],
                 "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/loginPage.png",
                 "isFeatured": false
             },
