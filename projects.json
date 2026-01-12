@@ -206,6 +206,24 @@
                 "githubRepositoryLink": "https://github.com/catsrieldreemurr/loginPageFresh",
                 "liveVersion": ""
             }
+        },
+
+
+        {
+            "projectInfo": {
+                "name": "Skolehelsetjenesten",
+                "shortDesc": "",
+                "description": "",
+                "projectDate": "",
+                "tags": [],
+                "stack": [],
+                "previewImageURL": "",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "",
+                "liveVersion": ""
+            }
         }
 
 
