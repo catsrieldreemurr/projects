@@ -212,16 +212,16 @@
         {
             "projectInfo": {
                 "name": "Skolehelsetjenesten",
-                "shortDesc": "",
-                "description": "",
-                "projectDate": "",
-                "tags": [],
-                "stack": [],
-                "previewImageURL": "",
+                "shortDesc": "En nettside laget for en halvårsprøve. En Moderne gjenskapelse / Modernisert versjon av en offesiel skoleside",
+                "description": "En NextJS Frontend side med informasjon om skolehelsetjenesten, laget som en del av en Halvårsprøve. ",
+                "projectDate": "12/01/2025",
+                "tags": ["Web"],
+                "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/main/images/skolehelsetjensten.png",
                 "isFeatured": false
             },
             "links": {
-                "githubRepositoryLink": "",
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/skolehelsetjenesten",
                 "liveVersion": ""
             }
         }
