@@ -236,7 +236,7 @@
                 "projectDate": "16/01/2026",
                 "tags": ["Web"],
                 "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
-                "previewImageURL": "https://github.com/catsrieldreemurr/projects/blob/main/images/passwordsDoneEasy.png?raw=true",
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/passwordsDoneEasy.png",
                 "isFeatured": false
             },
             "links": {
@@ -255,7 +255,7 @@
                 "projectDate": "30/01/2026",
                 "tags": ["Web", "API"],
                 "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
-                "previewImageURL": "https://github.com/catsrieldreemurr/projects/blob/main/images/FreeSteamGames.png?raw=true",
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/FreeSteamGames.png",
                 "isFeatured": false
             },
             "links": {
@@ -274,7 +274,7 @@
                 "projectDate": "23/01/2026",
                 "tags": ["Web", "API"],
                 "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
-                "previewImageURL": "https://github.com/catsrieldreemurr/projects/blob/main/images/Confable.png?raw=true",
+                "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/refs/heads/main/images/Confable.png",
                 "isFeatured": false
             },
             "links": {
