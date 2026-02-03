@@ -214,7 +214,7 @@
                 "name": "Skolehelsetjenesten",
                 "shortDesc": "En nettside laget for en halvårsprøve. En Moderne gjenskapelse / Modernisert versjon av en offesiel skoleside",
                 "description": "En NextJS Frontend side med informasjon om skolehelsetjenesten, laget som en del av en Halvårsprøve. ",
-                "projectDate": "12/01/2025",
+                "projectDate": "01/12/2025",
                 "tags": ["Web"],
                 "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
                 "previewImageURL": "https://raw.githubusercontent.com/catsrieldreemurr/projects/main/images/skolehelsetjensten.png",
@@ -222,6 +222,63 @@
             },
             "links": {
                 "githubRepositoryLink": "https://github.com/catsrieldreemurr/skolehelsetjenesten",
+                "liveVersion": ""
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "Passwords Done Easy",
+                "shortDesc": "Generasjon 3 av passordgenerator-sidene, med en enkel og bruke UI.",
+                "description": "En NextJS frontend side, og er generasjon 3 av passord-generator sidene jeg har laget i en god stund. ",
+                "projectDate": "16/01/2026",
+                "tags": ["Web"],
+                "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
+                "previewImageURL": "https://github.com/catsrieldreemurr/projects/blob/main/images/passwordsDoneEasy.png?raw=true",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/passwordsDoneEasy",
+                "liveVersion": ""
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "Free Steam Games",
+                "shortDesc": "En Enkel hjemmeside som viser gratis Steam Spill, med hjelp av GamerPower API-en",
+                "description": "En Enkel NextJS frontend side, som henter informasjonen fra GamerPower API-en og bruker den for å vise gratis Steam Spill.",
+                "projectDate": "30/01/2026",
+                "tags": ["Web", "API"],
+                "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
+                "previewImageURL": "https://github.com/catsrieldreemurr/projects/blob/main/images/FreeSteamGames.png?raw=true",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/freesteamgames",
+                "liveVersion": ""
+            }
+        },
+
+
+
+        {
+            "projectInfo": {
+                "name": "Confable",
+                "shortDesc": "En simplistisk Wordle gjenskapelse med en random-word API",
+                "description": "En Enkel NextJS frontend side, som henter et tilfeldig ord fra en API og bruker det i en Wordle gjenskapelse.",
+                "projectDate": "23/01/2026",
+                "tags": ["Web", "API"],
+                "stack": ["NextJS", "REACT", "CSS", "TypeScript", "ShadCN"],
+                "previewImageURL": "https://github.com/catsrieldreemurr/projects/blob/main/images/Confable.png?raw=true",
+                "isFeatured": false
+            },
+            "links": {
+                "githubRepositoryLink": "https://github.com/catsrieldreemurr/confable",
                 "liveVersion": ""
             }
         }
